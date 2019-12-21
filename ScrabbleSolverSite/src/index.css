@@ -1,0 +1,66 @@
+
+/*Header
+*/
+.title{
+	position:relative;
+	background-color: black;
+	height: 40px;
+	width:100%;
+}
+
+.title h1{
+	position:relative;
+	color: white;
+	font-size: 26;
+	bottom: 4px;
+	left:2.5%;
+}
+
+/*Footer*/
+.credits{
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	background-color: black;
+}
+
+.credits h4{
+	position:relative;
+	color: white;
+	left: 2.5%;
+}
+
+/*
+Search Bar and button formatting
+
+*/
+.searchForm{
+	position: relative;
+	padding-top: 10px;
+	left:35%;
+}
+
+.searchForm label{
+	width: 25%;
+}
+
+.searchForm .fa{
+	width: 5%;
+	height: 100%;
+}
+
+
+/*
+Wordbox formatting
+*/
+
+.WordBox{
+	width:90%;
+	padding-left:10%;
+	text-align: center;
+	padding-bottom: 25px;
+}
+
+.WordBox .wordLength{
+	text-decoration: underline;
+}
